@@ -7,3 +7,20 @@
 #### Well Hi! I'm a H4 header! See ya 'round! ####
 
 ![Image of a chair](https://5.imimg.com/data5/DQ/XK/MY-56039866/wooden-chair-500x500.jpg)
+
+Some code examples:
+
+Command line:
+```
+$ pwd
+~/test/lib/run
+```
+
+Java code:
+``` java
+class test {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
